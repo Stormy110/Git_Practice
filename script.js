@@ -3,9 +3,9 @@ const generateRandomNum = (num) => {
 }
 
 let messages = {
-    Good: ['You are such a smart person!', 'You are great in bed!', 'You smell nice when you shower!'],
+    Good: ['You are such a smart person!', 'You are great at life!', 'You smell nice when you shower!'],
     Mixed: ['You suck at life!', 'You make me want to vomit!', 'You are my best friend'],
-    Bad: ['You are ugly!', 'You are snot good in bed!', 'You have no hair on your balls!', 'You rock my world!']
+    Bad: ['You are ugly!', 'You are not good at anything!', 'You have no hair!', 'You rock my world!']
 }
 
 let newMessage = []
